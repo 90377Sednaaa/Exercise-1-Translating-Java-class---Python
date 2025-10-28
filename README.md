@@ -1,7 +1,8 @@
-*Objective*
+**Objective**
+
 Practice object-oriented programming by translating a Java class skeleton into Python, implementing attributes and methods.
 
-*INSTRUCTION*
+**INSTRUCTION**
 
 Create a Python class called Dog that can:
 
